@@ -38,6 +38,6 @@ Edge Detectors and Compass Operators.
 ![](/images/HW9.png "")
 
 ### Practice 10
-Some advanced operation, such as Laplace Mask, Difference of Gaussian.
+Some advanced operation, such as Laplace Mask, and Difference of Gaussian.
 
 ![](/images/HW10.png "")
