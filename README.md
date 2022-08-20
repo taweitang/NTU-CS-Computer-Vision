@@ -8,7 +8,7 @@ OpenCV basic operations, including save, read, rotate, flip and binarization.
 ![](/images/HW1.png "")
 
 ### Practice 2
-Create histagram of the image / Connect Component of binary image. 
+Creating histagram of the image / Connect Component of binary image. 
 
 ![](/images/HW2.png "")
 
