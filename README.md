@@ -1,6 +1,6 @@
 ## NTU CS Computer Vision
 
-This is a note which records the skills I have learned in each practices in the class. The results are summarized as follow. Also, all project source codes are appended into this repository.
+This is a note which records the skills I have learned in each practices in the class. The results are summarized as follow. Also, all project source codes are uploaded to this repository.
 
 ### Practice 1
 OpenCV basic operations, including save, read, rotate, flip and binarization.
