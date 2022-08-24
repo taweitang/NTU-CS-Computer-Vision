@@ -1,4 +1,4 @@
-## NTU CS Computer Vision Note
+## NTU CS Computer Vision
 
 This is a note which record the skills what I have learned in each practices in the class. The results are summarized as follow. Also, all project source codes are appended into this repository.
 
